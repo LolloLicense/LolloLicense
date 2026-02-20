@@ -1,20 +1,17 @@
-# Hey! I’m Lollo 👋✨  
+# Hey! I’m Lollo
 Frontend student, design nerd, and a *mild control freak* when it comes to typography, spacing, and those tiny details “no one notices” (but everyone feels).
 
-I like building websites that are **clean, sharp, and visually tasty** — where design and code actually hold hands. 🤝
+I like building websites that are **clean, sharp,quirky and visually tasty**  
 
 ---
 
-## 🧠 Current story arc
+## Currently
 - Becoming **fluent in code** without losing my graphic design soul  
 - Deep-diving into **JavaScript** and **TypeScript**  
 - A soft spot for **Figma** (grids, components, and making systems look effortless)  
-- Very much team **color + form + vibe** 🎨⚡️
+- Very much team **color + form + vibe** 
 
 ---
-
-## 🛠️ Things I work with
-
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -34,18 +31,18 @@ I like building websites that are **clean, sharp, and visually tasty** — where
 
 ---
 
-## 🦄 Fun facts / lore
-- I love when a site feels like a **complete world**: content + design + code in sync  
-- I’ve worked in **copy, web content, events, tourism** — and also as a **chef** (so yes, I can cook *and* write a CTA) 🍝  
+## I :
+-  love when a site feels like a **complete world**: content + design + code in sync  
+-  Worked in **copy, web content, events, tourism** — and also as a **chef** (so yes, I can cook *and* write a CTA) 🍝  
 - I live on **Tjörn** (west coast Sweden), powered by sea air and curated chaos 🌊
 
 ---
 
-## ☎️ Find me
+## Contact
 📍 Tjörn / Gothenburg area, Sweden  
 🔗 LinkedIn: [louise-sverkström](https://www.linkedin.com/in/louise-sverkstr%C3%B6m-208634271/)  
 ✉️ Email: [louise.sverkstrom@gmail.com](mailto:louise.sverkstrom@gmail.com)
 
 ---
 
-> “Curated chaos, but make it usable.” ✨
+> Curated chaos, but make it usable
