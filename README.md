@@ -32,8 +32,8 @@ I like building websites that are **clean, sharp,quirky and visually tasty**
 ---
 
 ## About Me
--  love when a site feels like a **complete world**: content + design + code in sync  
--  Worked in **copy, web content, events, tourism** — and also as a **chef** (so yes, I can cook *and* write a CTA) 🍝  
+- I love when a site feels like a **complete world**: content + design + code in sync  
+- I Worked in **copy, web content, events, tourism** — and also as a **chef** (so yes, I can cook *and* write a CTA) 🍝  
 - I live on **Tjörn** (west coast Sweden), powered by sea air and curated chaos 🌊
 
 ---
