@@ -40,8 +40,8 @@ I like building websites that are **clean, sharp,quirky and visually tasty**
 
 ## Contact
 📍 Tjörn / Gothenburg area, Sweden  
-[🔗 LinkedIn](https://www.linkedin.com/in/louise-sverkstr%C3%B6m-208634271/)  
-[✉️ Email](mailto:louise.sverkstrom@gmail.com)
+![🔗 LinkedIn](https://www.linkedin.com/in/louise-sverkstr%C3%B6m-208634271/)  
+![✉️ Email](mailto:louise.sverkstrom@gmail.com)
 
 ---
 
