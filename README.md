@@ -1,14 +1,16 @@
 # Hey! I’m Lollo
-Frontend student, design nerd, and a *mild control freak* when it comes to typography, spacing, and those tiny details “no one notices” (but everyone feels).
+Frontend student with a background in content, communication and visual design.  
+I like building websites where structure, copy, design and code actually like each other.
 
-I like building websites that are **clean, sharp,quirky and visually tasty**  
+I care about the details: typography, spacing, hierarchy, interaction, and whether a page feels clear, usable and visually alive. 
 
 ---
 
 ## Currently
-- Becoming **fluent in code** without losing my graphic design soul  
-- Deep-diving into **JavaScript** and **TypeScript**  
-- A soft spot for **Figma** (grids, components, and making systems look effortless)  
+
+- Studying frontend development at Medieinstitutet
+- Getting deeper into JavaScript, TypeScript and modern web workflows
+- Designing interfaces in Figma with focus on structure, components and visual direction
 - Very much team **color + form + vibe** 
 
 ---
@@ -36,9 +38,10 @@ I like building websites that are **clean, sharp,quirky and visually tasty**
 ---
 
 ## About Me
-- I love when a site feels like a **complete world**: content + design + code in sync  
-- I Worked in **copy, web content, events, tourism** — and also as a **chef** (so yes, I can cook *and* write a CTA) 🍝  
-- I live on **Tjörn** (west coast Sweden), powered by sea air and curated chaos 🌊
+Before frontend, I worked with copywriting, web content, events, tourism and food.  
+That mix probably explains why I’m drawn to digital experiences that have both structure and personality.
+
+I like thoughtful design systems, sharp visual direction, clear content and code that does what it’s supposed to do without causing drama.
 
 ---
 
@@ -48,4 +51,3 @@ I like building websites that are **clean, sharp,quirky and visually tasty**
 
 ---
 
-> Curated chaos, but make it usable
